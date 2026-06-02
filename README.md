@@ -95,7 +95,7 @@
         <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
       </p>
       <p>
-        🔗 <a href="https://github.com/Tahsin2155"><strong>Check my repos</strong></a>
+        🔗 <a href="https://github.com/Tahsin2155?tab=repositories"><strong>Check my repos</strong></a>
       </p>
     </td>
   </tr>
