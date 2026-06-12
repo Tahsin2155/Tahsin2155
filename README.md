@@ -10,7 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:0d1117&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=960&lines=Tahsin+Ali+Abtahi;Full-Stack+Developer;Student+Builder;Hackathon+Finalist;Shipped+3+Live+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=960&lines=Tahsin+Ali+Abtahi;Student+Builder" alt="Typing SVG" />
 
 <br/>
 
@@ -209,11 +209,11 @@ Open To:
 
 </div>
 
-<div align="center">
+<!--<div align="center">-->
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!--<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>-->
 
-</div>
+<!--</div>-->
 
 ---
 
