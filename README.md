@@ -1,4 +1,12 @@
 <div align="center">
+<pre>
+████████╗ █████╗ ██╗  ██╗███████╗██╗███╗   ██╗  
+╚══██╔══╝██╔══██╗██║  ██║██╔════╝██║████╗  ██║  
+   ██║   ███████║███████║███████╗██║██╔██╗ ██║  
+   ██║   ██╔══██║██╔══██║╚════██║██║██║╚██╗██║  
+   ██║   ██║  ██║██║  ██║███████║██║██║ ╚████║  
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝  
+</pre>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:0d1117&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
@@ -18,7 +26,7 @@
   <a href="https://tahsin2155.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
-  &nbsp;
+  
   <a href="mailto:tahsindlg@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
