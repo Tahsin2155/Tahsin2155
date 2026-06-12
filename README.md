@@ -1,181 +1,238 @@
 <div align="center">
 
-<pre>
-████████╗ █████╗ ██╗  ██╗███████╗██╗███╗   ██╗  
-╚══██╔══╝██╔══██╗██║  ██║██╔════╝██║████╗  ██║  
-   ██║   ███████║███████║███████╗██║██╔██╗ ██║  
-   ██║   ██╔══██║██╔══██║╚════██║██║██║╚██╗██║  
-   ██║   ██║  ██║██║  ██║███████║██║██║ ╚████║  
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝  
-</pre>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:0d1117&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=960&lines=Tahsin+Ali+Abtahi;Full-Stack+Developer;Student+Builder;Hackathon+Finalist;Shipped+3+Live+Products" alt="Typing SVG" />
 
-# Tahsin Ali Abtahi
-
-**Full-Stack Developer | Student Builder | Shipped 3 Live Products**
+<br/>
 
 <p>
-  <a href="https://tahsin2155.github.io"><strong>Portfolio</strong></a> •
-  <a href="https://github.com/Tahsin2155"><strong>GitHub</strong></a> •
-  <a href="mailto:tahsindlg@gmail.com"><strong>Email</strong></a> •
-  <a href="https://instagram.com/tahsin_2155"><strong>Instagram</strong></a>
+  <img src="https://img.shields.io/badge/12th_Standard-KV_Dalgaon-3B82F6?style=flat-square&logo=academia&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stream-PCMCs-10B981?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Assam,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
+<p>
+  <a href="https://tahsin2155.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:tahsindlg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/tahsin_2155" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/Tahsin_2155" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Tahsin2155&color=58A6FF&style=flat-square&label=Profile+Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Tahsin2155?style=flat-square&color=6366F1&label=Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Tahsin2155?style=flat-square&color=58A6FF&label=Stars"/>
+
 </div>
+
+<br/>
 
 ---
 
-## 🥇 Achievement That Matters
+## About
 
-<div align="center">
+I'm a **12th-standard student** (PCMCs) who builds real, live products using Python, Streamlit, and vanilla web tech. I got hooked on programming through Minecraft redstone logic, built a JARVIS-style assistant before properly knowing Python, and haven't stopped shipping since.
 
-### 🏆 All-India School Hackathon — Reached Zonal Level
+I've led my team to the **Zonal level of an All-India school hackathon** (Top 120 nationwide), deployed 3 live web apps, and I'm currently expanding into Flask for full-stack backend work.
 
-**Top 120 out of all schools nationwide** | Led team from school to zonal recognition
+**The way I learn:** Build something ambitious → figure it out → ship it → repeat.
 
-*This moment changed everything. Realized I wanted to keep building seriously.*
+**Open to:** Collaborations · Open Source · Interesting projects · Good conversations
 
-</div>
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark"/>
+</p>
+
+### Frameworks & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,streamlit&theme=dark"/>
+</p>
+
+### Tools & Services
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,netlify&theme=dark"/>
+</p>
 
 ---
 
 ## 🚀 Projects I've Shipped
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>📅 DayMark</h3>
-      <p><strong>Personal Productivity Web App</strong></p>
-      <p>Track your days, mark milestones, stay organized — all in a clean, minimal interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
-      </p>
-      <p>
-        ✅ <a href="https://daymark.streamlit.app"><strong>Live Demo</strong></a> | 
-        <a href="https://github.com/Tahsin2155/DayMark"><strong>Source</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>✍️ MarkdStudio</h3>
-      <p><strong>Markdown Editor & Writer</strong></p>
-      <p>Fast, distraction-free markdown editor for drafting, editing, and shipping content faster.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-      <p>
-        ✅ <a href="https://markdstudio.netlify.app"><strong>Live Demo</strong></a> | 
-        <a href="https://github.com/Tahsin2155/markdstudio"><strong>Source</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🆕 Velin</h3>
-      <p><strong>Custom New Tab Page</strong></p>
-      <p>Makes your browser start cleaner and more useful. Personal productivity companion.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-      <p>
-        <strong>Status:</strong> In Development | 
-        ✅ <a href="https://newvelintab.netlify.app"><strong>Live</strong></a> | 
-        <a href="https://github.com/Tahsin2155/Velin"><strong>Source</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🔄 More Coming</h3>
-      <p><strong>Currently Learning Flask</strong></p>
-      <p>Building more ambitious full-stack projects. Always shipping, always learning, always improving.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-      </p>
-      <p>
-        🔗 <a href="https://github.com/Tahsin2155?tab=repositories"><strong>Check my repos</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<details>
+<summary><b>📅 DayMark — Personal Productivity Web App</b></summary>
+
+<br/>
+
+> Track your days, mark milestones, and stay organized — clean, minimal, and fully Python-powered.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · Streamlit |
+| **Status** | ✅ Live |
+| **Live App** | [daymark.streamlit.app](https://daymark.streamlit.app) |
+| **Repository** | [github.com/Tahsin2155/DayMark](https://github.com/Tahsin2155/DayMark) |
+
+**What it does:** A productivity web app built entirely in Python using Streamlit. Lets users track and mark important days with a clean, distraction-free interface. My first full project shipped to the public — still running.
+
+</details>
+
+<details>
+<summary><b>✍️ MarkdStudio — Markdown Editor & Writer</b></summary>
+
+<br/>
+
+> A fast, distraction-free markdown editor for drafting, editing, and shipping content faster.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript |
+| **Status** | ✅ Live |
+| **Live App** | [markdstudio.netlify.app](https://markdstudio.netlify.app) |
+| **Repository** | [github.com/Tahsin2155/markdstudio](https://github.com/Tahsin2155/markdstudio) |
+
+**What it does:** Browser-based markdown editor focused on clean writing flow. No accounts, no bloat — open and start writing. Built with pure HTML/CSS/JS for maximum speed and simplicity.
+
+</details>
+
+<details>
+<summary><b>🆕 Velin — Custom New Tab Page</b></summary>
+
+<br/>
+
+> Replaces your browser's default new tab with something actually useful and personal.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript |
+| **Status** | 🔧 In Active Development |
+| **Live App** | [newvelintab.netlify.app](https://newvelintab.netlify.app) |
+| **Repository** | [github.com/Tahsin2155/Velin](https://github.com/Tahsin2155/Velin) |
+
+**What it does:** A custom new tab page that transforms every browser session into a more focused, productive start. Minimal design, personal productivity companion. Actively being built and improved.
+
+</details>
 
 ---
 
-## 🎓 How It Started
-
-| Stage | What Happened |
-|-------|---------------|
-| **8th Grade** | Minecraft redstone circuits sparked curiosity about logic and systems |
-| **9th Grade** | Built a JARVIS-style assistant — learned Python by doing, not studying |
-| **10th Grade** | Board exams paused the coding journey temporarily |
-| **11th Grade** | Returned stronger: Python complete → Streamlit discovery → **Hackathon Victory** 🎯 → DayMark shipped |
-| **Today** | Expanding skills (Flask next), leading projects, always building |
-
-**The Pattern:** Curiosity → Build Something → Learn Through Making → Ship It → Repeat
-
----
-
-## 💡 What I Work With
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Platforms
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Tools & Services
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit Cloud](https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### Beyond Code
-- 🧮 Problem Solving & Logical Thinking
-- 🎓 Physics, Chemistry, Mathematics, Computer Science (12th Standard)
-- 👥 Team Leadership & Collaboration
-- 🎨 Product Design & UX Thinking
-
----
-
-## 📈 GitHub Overview
+## 🏆 Achievements
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Tahsin2155&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&text_color=8B949E&title_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Tahsin2155&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&text_color=8B949E&title_color=58A6FF)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tahsin2155&theme=dark&hide_border=true&background=0D1117)
+| Recognition | Details |
+|---|---|
+| 🥇 All-India School Hackathon | Zonal Finalist — Top 120 schools nationwide |
+| 🚀 Shipped Live Products | 3 public apps actively running |
+| 🎮 Self-Taught via Building | Learned Python by building a JARVIS assistant from scratch |
+| 📐 Redstone to Real Code | From Minecraft logic circuits to full web apps |
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Current Focus
+
+```yaml
+Learning:
+  - Flask (full-stack backend with Python)
+  - Expanding from Streamlit to custom web frameworks
+  - Building more ambitious multi-feature apps
+
+Building:
+  - Velin (new tab page — actively in development)
+  - Next Flask-powered project (coming soon)
+
+Exploring:
+  - REST APIs and backend architecture
+  - Bridging Python skills into full-stack development
+  - Open source contributions
+
+Open To:
+  - Hackathon collaborations
+  - Open source projects
+  - Interesting side project ideas
+  - Learning from experienced developers
+```
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
 
-**Always open to collaboration, learning opportunities, and interesting projects.**
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Tahsin2155&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Tahsin2155&theme=tokyonight&border_radius=10&hide_border=false" />
 
-| Channel | Link |
-|---------|------|
-| 🌐 Portfolio | [tahsin2155.github.io](https://tahsin2155.github.io) |
-| 📧 Email | [tahsindlg@gmail.com](mailto:tahsindlg@gmail.com) |
-| 📱 Instagram | [@tahsin_2155](https://instagram.com/tahsin_2155) |
-| 𝕏 Twitter | [@Tahsin_2155](https://x.com/Tahsin_2155) |
+<br/><br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahsin2155&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
 
 </div>
 
 ---
 
+## 📊 Contribution Activity
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tahsin2155&color=58A6FF&style=flat-square)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tahsin2155&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
-**Building tomorrow, one project at a time** ✨
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://tahsin2155.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-tahsin2155.github.io-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:tahsindlg@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-tahsindlg@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/tahsin_2155" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-@tahsin__2155-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/Tahsin_2155" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@Tahsin__2155-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+*Building tomorrow, one project at a time ✨*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a4e,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
